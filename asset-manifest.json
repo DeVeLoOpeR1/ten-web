@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DeVeLoOpeR1.io/ten-web/static/css/main.a3e3b533.css",
+    "main.js": "/DeVeLoOpeR1.io/ten-web/static/js/main.dd4182bf.js",
+    "static/media/video-2.mp4": "/DeVeLoOpeR1.io/ten-web/static/media/video-2.39e6c79bffb375ae929a.mp4",
+    "static/media/img9.jpg": "/DeVeLoOpeR1.io/ten-web/static/media/img9.a4abecf320357fb259c3.jpg",
+    "static/media/img10.jpg": "/DeVeLoOpeR1.io/ten-web/static/media/img10.9930027c5b141f0e0cd7.jpg",
+    "static/media/img4.jpg": "/DeVeLoOpeR1.io/ten-web/static/media/img4.8a1d6cb5799064ddc6b1.jpg",
+    "static/media/img8.jpg": "/DeVeLoOpeR1.io/ten-web/static/media/img8.ab77acab144f281f512a.jpg",
+    "static/media/img1.png": "/DeVeLoOpeR1.io/ten-web/static/media/img1.1ec9bfae721cce3421b6.png",
+    "static/media/img6.png": "/DeVeLoOpeR1.io/ten-web/static/media/img6.1f428816448ca120c320.png",
+    "static/media/img5.png": "/DeVeLoOpeR1.io/ten-web/static/media/img5.429bd17a8516c05bb4d3.png",
+    "static/media/img3.jpg": "/DeVeLoOpeR1.io/ten-web/static/media/img3.759d897f17ecc26d4723.jpg",
+    "index.html": "/DeVeLoOpeR1.io/ten-web/index.html",
+    "main.a3e3b533.css.map": "/DeVeLoOpeR1.io/ten-web/static/css/main.a3e3b533.css.map",
+    "main.dd4182bf.js.map": "/DeVeLoOpeR1.io/ten-web/static/js/main.dd4182bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e3b533.css",
+    "static/js/main.dd4182bf.js"
+  ]
+}
